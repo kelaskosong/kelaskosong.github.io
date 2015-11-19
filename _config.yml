@@ -19,3 +19,6 @@ github_username:  kelaskosong
 
 # Build settings
 markdown: kramdown
+
+gems:
+  - jemoji
