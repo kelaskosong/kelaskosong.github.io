@@ -21,4 +21,4 @@ github_username:  kelaskosong
 markdown: kramdown
 
 gems:
-  - gemoji
+  - jemoji
